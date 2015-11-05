@@ -13,7 +13,7 @@
 "App Switcher" = "Многозадачность";
 "Are You Sure?" = "Вы уверенны?";
 "Appearance" = "Оформление";
-"Assistant Icon" = "Иконка помошника";
+"Assistant Icon" = "Иконка помощника";
 "Automatic Backups" = "Автоматичесие резервные копии";
 "Automatic Backups Footer" = "Автоматическое резервное копирование будет производится раз в день.";
 "Background Opacity" = "Прозрачность фона";
@@ -57,7 +57,7 @@
 "Depth Amount" = "Глубина";
 "Dim Icons Instead of Blur" = "Затемнить иконки вместо размытия";
 "Dim Inactive App Cards" = "Затемнить неактивные карточки";
-"Dimmed Icon Alpha" = "Dimmed Icon Alpha";
+"Dimmed Icon Alpha" = "Прозрачность затемнения иконки";
 "Dimming Color Tint" = "Затемненный цветовой оттенок";
 "Disable" = "Отключить";
 "Disable Blur" = "Отключить размытие";
@@ -66,7 +66,7 @@
 "Disable Icon Jittering" = "Отключить режим дрожания";
 "Disable From Top" = "Отключено сверху";
 "Disable On LockScreen" = "Отключить на экране блокировки";
-"Disable On Side" = "Отключено со стороны";
+"Disable On Side" = "Отключить в стороны";
 "Disable Screen Bounce" = "Отключить подергивание экрана";
 "Disable Wallpaper Zoom" = "Отключить приближение обоев";
 "DND Icon" = "Иконка не бесспокоить";
